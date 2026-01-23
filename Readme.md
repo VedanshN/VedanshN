@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedansh Nema</h1>
+<h1 align="center">Hi! I'm Vedansh Nema.</h1>
 <h3 align="center">CS Undergrad | AI/ML + Full Stack Engineer | Backend & Systems</h3>
 
 <p align="center">
@@ -30,6 +30,5 @@ I'm a Computer Science student specializing in **AI/ML** building **scalable ful
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedanshN&show_icons=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshN&layout=compact" height="160"/>
 </p>
 
