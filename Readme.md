@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedn/" target="_blank">LinkedIn</a> •
-  <a href="mailto:vedansh.nema@outlook.com" target="_blank">Email</a> •
+  <a href="mailto:vedansh.nema@outlook.com" target="_blank">Email</a>
 </p>
 
 ---
