@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Vedansh Nema.</h1>
 <h3 align="center">CS Undergrad | AI/ML + Full Stack Engineer | Backend & Systems</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedn/" target="_blank">LinkedIn</a> 
-</p>
-
 ---
 
 ## 🚀 About Me  
