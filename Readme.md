@@ -45,7 +45,7 @@ vedansh = {
 
 ## projects
 
-**[Formerly](https://formerly-omega.vercel.app/)** · `Python` `FastAPI` `Google Drive API` `AI`  
+**[Formerly](https://formerly-omega.vercel.app/)** · `Python` `FastAPI` `Google Cloud` `AI`  
 Describe a form in plain English — Formerly talks to AI and builds the entire Google Form directly in your Drive. Every question, type, and option, exactly right.
 
 **Smart Parking Management System** · `Arduino` `C++` `Python` `Django` `React`  
