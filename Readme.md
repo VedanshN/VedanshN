@@ -36,7 +36,7 @@ vedansh = {
     "languages": ["Python", "C++", "TypeScript", "SQL"],
     "backend":   ["FastAPI", "Django", "REST", "OpenAPI"],
     "data":      ["PostgreSQL", "NumPy", "Pandas"],
-    "ml":        ["OpenAI", "Whisper", "OpenCV", "YOLO"],
+    "ml":        ["Torch", "Tensorflow", "OpenCV", "YOLO"],
     "infra":     ["Docker", "GCP", "Git", "Linux"],
 }
 ```
