@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <div align="center">
 
@@ -44,17 +43,10 @@ vedansh = {
 
 ---
 
-## experience
-
-**Founding Backend Intern** · NevUp AI *(Nov 2025 – present)*  
-Low-latency FastAPI backend for a trading psychology platform — crypto exchange integrations via CCXT, real-time ML inference endpoints, containerized with Docker.
-
-**Software Engineering Intern** · Episteme Partners, London *(Jun – Oct 2025)*  
-AI-powered video/audio analysis platform: Django backend, Whisper transcription, OpenCV + YOLO frame detection, React + TypeScript frontend. ~70% reduction in manual review time.
-
----
-
 ## projects
+
+**[Formerly](https://formerly-omega.vercel.app/)** · `Python` `FastAPI` `Google Drive API` `AI`  
+Describe a form in plain English — Formerly talks to AI and builds the entire Google Form directly in your Drive. Every question, type, and option, exactly right.
 
 **Smart Parking Management System** · `Arduino` `C++` `Python` `Django` `React`  
 IoT-based real-time occupancy tracking with a live web dashboard. 90%+ accuracy in simulation, ~60% reduction in average spot-search time.
