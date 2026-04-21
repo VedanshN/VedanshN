@@ -33,7 +33,7 @@ Currently building low-latency trading infrastructure at **NevUp AI**.
 
 ```python
 vedansh = {
-    "languages": ["Python", "C++", "TypeScript", "SQL"],
+    "languages": ["Python", "C++", "TypeScript", "Rust"],
     "backend":   ["FastAPI", "Django", "REST", "OpenAPI"],
     "data":      ["PostgreSQL", "NumPy", "Pandas"],
     "ml":        ["Torch", "Tensorflow", "OpenCV", "YOLO"],
